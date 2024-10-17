@@ -12,11 +12,6 @@ With solid experience in PHP development, I specialize in crafting dynamic web a
 
 I develop on a Linux Ubuntu system, which provides a stable and efficient environment for my work. My go-to tool for development is PHPStorm and utilization of docker containers.
 
-🌟 Interests
-
-Back-End Development: Crafting optimized server-side logic and functionality and API integrations.
-Automation & Scripting: Using Bash and Python to simplify repetitive tasks. <br />
-
 🚀 Beyond the Code
 
 When I'm not coding, I like to:
