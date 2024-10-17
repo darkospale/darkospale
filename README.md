@@ -25,6 +25,7 @@ When I'm not coding, I like to:
 * Being a chef: Exploring new recipes and enjoying different cuisines. 🥣
 * Gaming: Enjoying a good challenge, whether it's classic games or the latest releases. 🎮
 * Stargazing: Fascinated by the mysteries of the universe, I love admiring the night sky. 🌃
+* Watch movies and TV series: I enjoy night when I can just relax and enjoy the film art. 🎥
 
 📩 Let's Connect!
 
