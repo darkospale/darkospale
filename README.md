@@ -40,11 +40,11 @@ Feel free to reach out via darkospartak999@gmail.com for potential collaboration
 <img src="https://img.shields.io/badge/-Html-21212b?logo=HTML5" height="26">
 <img src="https://img.shields.io/badge/-Css-21212b?logo=CSS3" height="26">
 <img src="https://img.shields.io/badge/-Scss-21212b?logo=Sass" height="26">
-<img src="https://img.shields.io/badge/-Javasccript-21212b?logo=javascript" height="26">
+<img src="https://img.shields.io/badge/-Javascript-21212b?logo=javascript" height="26">
 <img src="https://img.shields.io/badge/-jQuery-21212b?logo=jquery" height="26"> <br />
 
-<img src="https://img.shields.io/badge/-xml-21212b?logo=xml" height="26">
-<img src="https://img.shields.io/badge/-json-21212b?logo=json" height="26"> <br />
+<img src="https://img.shields.io/badge/-XML-21212b?logo=xml" height="26">
+<img src="https://img.shields.io/badge/-JSON-21212b?logo=json" height="26"> <br />
 
 <img src="https://img.shields.io/badge/-MySQL-21212b?logo=mysql" height="26">
 <img src="https://img.shields.io/badge/-PostgreSQL-21212b?logo=postgresql" height="26"> <br />
